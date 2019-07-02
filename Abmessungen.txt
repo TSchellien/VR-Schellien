@@ -1,0 +1,8 @@
+Höhe Lighthouse Balken: 2.845 m
+Diagonale Lighthouses: 4.8 m
+Tracking-Fläche: 2,7m x 3,7m
+
+Tür steht längs zur 3,7m-Seite
+Tür: 	2 m hoch
+	87,5 cm breit
+	4 cm tief
